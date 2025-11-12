@@ -95,4 +95,3 @@ I believe in learning by building — every project I create starts with curiosi
 
 ---
 
-⭐️ **From [Aditya Raj Mall](https://github.com/AdityaRajMall102004)**  
