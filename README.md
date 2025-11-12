@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me  
-🎓 I'm a **3rd-year B.Tech student (Information Technology)** at *Noida Institute of Engineering and Technology, Greater Noida* with a **CGPA of 8.11**.  
+🎓 I'm a **3rd-year B.Tech student (Information Technology)** at *Noida Institute of Engineering and Technology, Greater Noida* with a **CGPA of 8.12**.  
 💻 I love building scalable full-stack applications, exploring backend systems, and solving algorithmic challenges.  
 🚀 I aim to grow as a software developer who bridges creativity with clean and efficient code.  
 🌱 Currently exploring **advanced MERN stack projects, APIs, and cloud deployment**.
