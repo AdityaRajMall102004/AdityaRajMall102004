@@ -55,11 +55,6 @@
 #### 🎵 [Music Cloud Playlist Builder](https://github.com/AdityaRajMall102004/music_cloud_1.0) | [Live Demo](https://adityarajmall102004.github.io/music_cloud_1.0/)
 - A simple and fun playlist management app for music lovers.  
 - Built using **JavaScript, HTML, and CSS**.  
-
-#### 🎓 [Education-For-India](https://github.com/AdityaRajMall102004/Education-For-India.) | [Live Demo](https://adityarajmall102004.github.io/Education-For-India./)
-- Informational website comparing **college details, courses, and scholarships**.  
-- Built using **HTML5 and CSS3**.  
-
 ---
 
 ### 💼 Work Experience  
